@@ -3,7 +3,7 @@
 This Node.js template lets you get started quickly with a simple one-page playground.
 
 ```javascript runnable
-console.log('Hello World!');
+console.log('EVERYONE HERE SUCKS DICK ALL DAY AND ALL NIGHT LONG!');
 ```
 
 # Advanced usage
